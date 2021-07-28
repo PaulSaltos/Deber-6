@@ -46,6 +46,14 @@ Magnetismo y circuitosmagnéticos
 
 # 2.	MARCO TEORICO 
 
+CAPITULO 11
+
+![image](https://user-images.githubusercontent.com/85178869/127276521-e56014de-5e32-40c4-b1ec-8e67f0516a74.png)
+
+CAPITULO 12
+
+![image](https://user-images.githubusercontent.com/85178869/127278036-fba932da-fed6-46e4-a410-41fd20c8faf9.png)
+
 # 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMA
 
 CAPITULO 11
@@ -198,7 +206,7 @@ https://youtu.be/t-avTDvrnRI
 
 • https://www.academia.edu/16602779/Circuitos_Magne_ticos_Maquinas_Ele_ctricas_I
 
-
+• https://es.wikipedia.org/wiki/Circuito_magn%C3%A9tico
 
 
 
